@@ -13,7 +13,7 @@ Data Source: https://ourworldindata.org/covid-deaths
 2. Data Cleaning - deleting unwanted columns, changing datatypes, filling in missing values
 3. Analysing the data to study COVID-19 insights
 
-## Questions Answered
+### Questions Answered
 
 1. What is likelihood of dying if you contract covid in your country? 
 2. What percentage of population got infected with Covid?
