@@ -1,9 +1,22 @@
 /*
 Covid 19 Data Exploration
-
-Skills Used: Aggregate Functions, Joins, Windows Functions, CTEs, Create Views, Convert Data Types
+--------------------------
+Functions Used: 
+Aggregate Functions (MAX, SUM)
+Inner Join
+Windows Functions
+CTEs
+Create Views
+Convert Data Types
 
 */
+
+---------------------------
+
+--Author: Ishita Parekh
+
+---------------------------
+
 
 -- Select all data from CovidDeaths Table
 
